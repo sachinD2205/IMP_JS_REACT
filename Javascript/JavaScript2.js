@@ -71,4 +71,8 @@ let acb = [5, 30, 55, 65, 70];
 
 // =====================================>
 
-//todo - EveryMethod every()
+//todo - split() method
+
+
+
+
